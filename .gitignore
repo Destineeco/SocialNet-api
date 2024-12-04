@@ -1,2 +1,11 @@
-.env
+# Node modules
 /node_modules/
+
+
+/dist/
+/build/
+
+.env
+db/
+
+
