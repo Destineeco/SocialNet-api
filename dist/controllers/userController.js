@@ -31,7 +31,6 @@ export const getSingleUser = async (req, res) => {
 };
 // create a new user
 export const createUser = async (req, res) => {
-    console.log('Request Body:', req.body);
     try {
         const dbUserData = await User.create(req.body);
         res.json(dbUserData);
