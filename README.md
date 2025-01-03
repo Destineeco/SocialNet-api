@@ -39,4 +39,4 @@ Make sure to include valid JSON in the request bodies for any routes that requir
 ## Questions
 If you have any questions, feel free to reach out to me at [https://github.com/Destineeco/SocialNet-api and desmil.co@gmail.com].
 
-walkthrough video here ! [https://drive.google.com/file/d/1Had-WesDevcRATY2GtsghCyMYK0g36GC/view]
+walkthrough video here ! [https://youtu.be/u-2Asa9gGmQ] or Qr code here [![alt text](image.png)]
